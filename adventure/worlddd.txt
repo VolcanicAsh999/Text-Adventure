@@ -1,0 +1,13 @@
+Cave 1
+['Treasure Hunter', 'What a Deal!']
+['HealPotion()', 'TreasureMap()', 'BookOfSecrets()']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+4
+0
+10
+1
+['Library', 'Blacksmith Shop']
+Owen's ehtia
+[]
+[]
+[]
